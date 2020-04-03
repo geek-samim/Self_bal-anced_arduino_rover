@@ -1,4 +1,4 @@
-//Viral Science www.youtube.com/c/viralscience  www.viralsciencecreativity.com
+
 //Self Balancing Robot
 #include <PID_v1.h>
 #include <LMotorController.h>
